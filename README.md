@@ -21,3 +21,11 @@ To train on the 4-class or 8-class dataset, run the following command in the the
 cd ./4_8_class_code/elpv2026
 bash run.sh
 ```
+
+
+## Acknowledgement
+
+* [AdvEL-Net](https://doi.org/10.1016/j.solener.2025.114085): We reproduce the AdvEL-Net and modified ELPV-2026 dataset presented in this paper.
+* [LwNet](https://doi.org/10.1016/j.solener.2024.112803): We reproduce the modified ELPV-2024 dataset presented in this paper.
+* [ELPV dataset](https://github.com/zae-bayern/elpv-dataset): The original ELPV dataset is presented in this link.
+* [resnet-defective-solar-cells](https://github.com/kirill-menke/resnet-defective-solar-cells): Inspiration for the dataloader code.
